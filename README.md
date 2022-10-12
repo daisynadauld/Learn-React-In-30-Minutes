@@ -17,7 +17,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+
 * [W3Schools](https://www.w3schools.com/REACT/DEFAULT.ASP)
 * [YouTube](https://www.youtube.com/watch?v=Dorf8i6lCuk)
 
